@@ -1,0 +1,30 @@
+{
+	"Name": "Cars",
+	"Elements": [
+		{
+			"Name": "1983-toyota-sprinter-trueno-gt-apex-ae86",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/Markers/1983-toyota-sprinter-trueno-gt-apex-ae86.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Cars/Models/1983-toyota-sprinter-trueno-gt-apex-ae86.glb"
+		},
+		{
+			"Name": "bmw-x7-m60i",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/Markers/bmw-x7-m60i.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Cars/Models/bmw-x7-m60i.glb"
+		},
+		{
+			"Name": "cartoon-car",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/Markers/cartoon-car.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Cars/Models/cartoon-car.glb"
+		},
+		{
+			"Name": "ford-gt-17",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/Markers/ford-gt-17.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Cars/Models/ford-gt-17.glb"
+		},
+		{
+			"Name": "lamborghini",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/Markers/lamborghini.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Cars/Models/lamborghini.glb"
+		}
+	]
+}
