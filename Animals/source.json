@@ -1,0 +1,28 @@
+{
+	"Name": "Animals",
+	"Author": "John Buritto",
+	"Version": "1.0.0",
+	"LogoUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/logo.png?raw=true",
+	"Elements": [
+		{
+			"Name": "Cow",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Cow.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Cow.glb"
+		},
+		{
+			"Name": "Dog",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Dog.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Dog.glb"
+		},
+		{
+			"Name": "Duck",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Duck.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Duck.glb"
+		},
+		{
+			"Name": "Rhino",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Rhino.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Rhino.glb"
+		}
+	]
+}
