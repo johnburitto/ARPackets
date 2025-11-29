@@ -1,7 +1,7 @@
 {
 	"Name": "Cars",
 	"Author": "John Buritto",
-	"Version": "1.1.0",
+	"Version": "1.2.0",
 	"LogoUrl": "https://github.com/johnburitto/ARPackets/blob/main/Cars/logo.png?raw=true",
 	"Elements": [
 		{
