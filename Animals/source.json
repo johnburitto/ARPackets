@@ -5,9 +5,9 @@
 	"LogoUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/logo.png?raw=true",
 	"Elements": [
 		{
-			"Name": "Cow",
-			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Cow.png?raw=true",
-			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Cow.glb"
+			"Name": "Bird",
+			"MarkerUrl": "https://github.com/johnburitto/ARPackets/blob/main/Animals/Markers/Bird.png?raw=true",
+			"ModelUrl": "https://raw.githubusercontent.com/johnburitto/ARPackets/refs/heads/main/Animals/Models/Bird.glb"
 		},
 		{
 			"Name": "Dog",
